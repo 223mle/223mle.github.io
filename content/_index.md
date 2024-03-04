@@ -4,7 +4,8 @@ date = 2024-03-04T15:48:38+09:00
 draft = true
 +++
 
-![nobu](/image/nobu.png)
+[<img src="https://simpleicons.org/icons/github.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/223mle/223mle.github.io/blob/main/image/nobu_0304050838.png?raw=true)
+
 # Daiki Tsutsumi
 
 ## ML Engineer @ELYZA
@@ -31,7 +32,7 @@ Mail: 223aie@gmail.com
 - TOEIC L&R 740/990
 - 統計検定2級
 
-## Gaming achievements
+## Achievements
 
 ### Clash Royale
 
