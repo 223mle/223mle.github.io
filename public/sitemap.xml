@@ -2,13 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://223mle.github.io/categories/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-03-04T15:48:38+09:00</lastmod>
   </url><url>
-<<<<<<< HEAD
-=======
-    <loc>https://223mle.github.io/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
->>>>>>> 200a11bf245a16addddb933c6ee67cc4250042ad
-    <loc>https://223mle.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

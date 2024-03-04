@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>Home on Daiki Tsutsumi</title>
     <link>http://localhost:1313/</link>
     <description>Recent content in Home on Daiki Tsutsumi</description>
@@ -9,13 +8,5 @@
     <language>ja</language>
     <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-=======
-    <title>Daiki Tsutsumi</title>
-    <link>https://223mle.github.io/</link>
-    <description>Recent content on Daiki Tsutsumi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <atom:link href="https://223mle.github.io/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> 200a11bf245a16addddb933c6ee67cc4250042ad
   </channel>
 </rss>

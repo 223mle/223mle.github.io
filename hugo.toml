@@ -2,9 +2,6 @@ baseURL = 'https://223mle.github.io/'
 languageCode = 'ja'
 title = 'Daiki Tsutsumi'
 theme = 'hugo-xmin'
-<<<<<<< HEAD
-
-
 [menu]
 
   [[menu.main]]
@@ -24,5 +21,4 @@ footer = "&copy; [Daiki Tsutsumi](https://223mle.github.io/) 2024 -- {Year} | [G
 [markup]
   [markup.highlight]
   codeFences = false
-=======
->>>>>>> 200a11bf245a16addddb933c6ee67cc4250042ad
+
