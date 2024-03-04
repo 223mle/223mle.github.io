@@ -4,6 +4,11 @@
   <url>
     <loc>https://223mle.github.io/categories/</loc>
   </url><url>
+<<<<<<< HEAD
+=======
+    <loc>https://223mle.github.io/</loc>
+  </url><url>
+>>>>>>> 200a11bf245a16addddb933c6ee67cc4250042ad
     <loc>https://223mle.github.io/tags/</loc>
   </url>
 </urlset>
