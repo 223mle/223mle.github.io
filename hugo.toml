@@ -9,11 +9,6 @@ theme = 'hugo-xmin'
   url = ""
   weight = 1
 
-  [[menu.main]]
-  name = "CV"
-  url = "cv/"
-  weight = 2
-
 [params]
 description = "A website built through Hugo and blogdown."
 footer = "&copy; [Daiki Tsutsumi](https://223mle.github.io/) 2024 -- {Year} | [Github](https://github.com/223mle) | [Linkdin](https://www.linkedin.com/in/daiki-tsutsumi/)"
