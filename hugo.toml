@@ -1,0 +1,4 @@
+baseURL = 'https://223mle.github.io/'
+languageCode = 'ja'
+title = 'Daiki Tsutsumi'
+theme = 'hugo-xmin'
