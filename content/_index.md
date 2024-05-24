@@ -26,7 +26,8 @@ sections:
     content:
       # The user's folder name in `content/authors/`
       username: daikitsutsumi
-      title
+      title: 🧑‍💻️ Experiences (Job & Internship)
+      subtitle: 'All experiences can be found on my [LinkedIn](https://www.linkedin.com/in/daiki-tsutsumi/).'
     design:
       columns: '1'
       # Hugo date format
