@@ -21,7 +21,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: chatgpt.webp
           filters:
-              brightness: 0.4
+            brightness: 0.4
   - block: resume-experience
     content:
       # The user's folder name in `content/authors/`
