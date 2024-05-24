@@ -27,9 +27,7 @@ sections:
       # The user's folder name in `content/authors/`
       username: daikitsutsumi
     design:
-      background:
-      css_class: elyza
-        color: elyza
+        color: blue
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
