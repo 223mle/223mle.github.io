@@ -50,29 +50,37 @@ education:
     date_end: 2024-03-31
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Lead AI Engineer
+    company_name: Elyza
+    company_url: 'https://elyza.ai/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-04-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      AI EngineerとしてLLMの社会実装を要件定義から導入まで担当.
+      - LLM, RAG, ...
+  - position: AI Engineer(Internship)
+    company_name: Elyza
+    company_url: 'https://elyza.ai/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+    date_start: 2022-02
+    date_end: 2024-03-31
+  - position: AI Engineer(Internship)
+    company_name: Matsuo Institute
+    company_url: 'https://matsuo-institute.com/'
+    company_logo: ''
+    date_start: 2023-01
+    date_end: 2023-07
+    summary: |2-
+      東京大学松尾研究室が運営する松尾研究所でAI技術の社会実装を行うPJTに配属.
+  - position: ML Engineer(Internship)
+    company_name: Exawizards
+    company_url: 'https://exawizards.com/'
+    company_logo: ''
+    date_start: 2023-02
+    date_end: 2023-02
+    summary: |2-
+      ハッカソン形式のインターンに参加. 主にリコメンドシステムの改善を行った.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 # skills:

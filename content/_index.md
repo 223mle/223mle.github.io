@@ -9,28 +9,16 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: resume-experience
-    content:
-      # The user's folder name in `content/authors/`
-      username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+      username: daikitsutsumi
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
     design:
-      css_class: dark
+      css_class: elyza
       background:
-        color: black
+        color: elyza
         image:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
@@ -39,6 +27,15 @@ sections:
           size: cover
           position: center
           parallax: false
+  - block: resume-experience
+    content:
+      # The user's folder name in `content/authors/`
+      username: daikitsutsumi
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
   - block: markdown
     content:
       title: '📚 My Research'
