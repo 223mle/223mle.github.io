@@ -1,0 +1,15 @@
+/* Hugo Blox color theme: elyza */
+:root {
+    --color-primary-50: hsl(216, 98%, 96%);
+    --color-primary-100: hsl(216, 98%, 92%);
+    --color-primary-200: hsl(216, 98%, 84%);
+    --color-primary-300: hsl(216, 98%, 76%);
+    --color-primary-400: hsl(216, 98%, 68%);
+    --color-primary-500: hsl(216, 98%, 60%);
+    --color-primary-600: hsl(216, 98%, 52%);
+    --color-primary-700: hsl(216, 98%, 44%);
+    --color-primary-800: hsl(216, 98%, 36%);
+    --color-primary-900: hsl(216, 98%, 28%);
+    --color-primary-950: hsl(216, 98%, 20%);
+  }
+  
