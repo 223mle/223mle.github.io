@@ -63,22 +63,22 @@ work:
     company_name: Elyza
     company_url: 'https://elyza.ai/'
     company_logo: ''
-    date_start: 2022-02-xx
+    date_start: 2022-02-20
     date_end: 2024-03-31
   - position: AI Engineer(Internship)
     company_name: Matsuo Institute
     company_url: 'https://matsuo-institute.com/'
     company_logo: ''
     date_start: 2023-01-01
-    date_end: 2023-07-xx
+    date_end: 2023-07-31
     summary: |2-
       東京大学松尾研究室が運営する松尾研究所でAI技術の社会実装を行うPJTに配属.
   - position: ML Engineer(Internship)
     company_name: Exawizards
     company_url: 'https://exawizards.com/'
     company_logo: ''
-    date_start: 2023-02-xx
-    date_end: 2023-02-xx
+    date_start: 2023-03-14
+    date_end: 2023-03-17
     summary: |2-
       ハッカソン形式のインターンに参加. 主にリコメンドシステムの改善を行った.
 # Skills
