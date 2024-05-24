@@ -16,23 +16,19 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
     design:
-      css_class: elyza
       background:
-        color: elyza
         image:
           # Add your image background to `assets/media/`.
           filename: chatgpt.webp
           filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+              brightness: 0.2
   - block: resume-experience
     content:
       # The user's folder name in `content/authors/`
       username: daikitsutsumi
     design:
       background:
+      css_class: elyza
         color: elyza
       # Hugo date format
       date_format: 'January 2006'

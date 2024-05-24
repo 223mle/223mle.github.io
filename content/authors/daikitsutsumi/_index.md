@@ -10,8 +10,8 @@ first_name: Daiki
 last_name: Tsutsumi
 
 # Status emoji
-status:
-  icon: 🦾
+# status:
+#   icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -154,11 +154,7 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
+Daiki Tsutsumi （堤 大貴 in Japanese） is a Lead AI Engineer at Elyza, inc.
+Currently, he is working on the social implementation of a Large Language Model(LLM), from requirements definition to development.
+In college, he is interested in the field of cognitive bias and brain tech, including conducting research on human biases against AI.
 *Background image borrowed from [OpenAI ChatGPT](https://openai.com/blog/chatgpt) illustration by [Ruby Chen](https://www.linkedin.com/in/rubyweijuchen/).*
