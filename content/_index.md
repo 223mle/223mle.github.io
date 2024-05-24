@@ -21,7 +21,7 @@ sections:
         color: elyza
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: chatgpt.webp
           filters:
             brightness: 1.0
           size: cover
@@ -32,6 +32,8 @@ sections:
       # The user's folder name in `content/authors/`
       username: daikitsutsumi
     design:
+      background:
+        color: elyza
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
