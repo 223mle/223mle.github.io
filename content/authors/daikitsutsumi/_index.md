@@ -59,13 +59,13 @@ work:
     summary: |2-
       AI EngineerとしてLLMの社会実装を要件定義から導入まで担当.
       - LLM, RAG, ...
-  - position: AI Engineer(Internship)
+  - position: AI Engineer (Internship)
     company_name: Elyza
     company_url: 'https://elyza.ai/'
     company_logo: ''
     date_start: 2022-02-20
     date_end: 2024-03-31
-  - position: AI Engineer(Internship)
+  - position: AI Engineer (Internship)
     company_name: Matsuo Institute
     company_url: 'https://matsuo-institute.com/'
     company_logo: ''
@@ -73,7 +73,7 @@ work:
     date_end: 2023-07-31
     summary: |2-
       東京大学松尾研究室が運営する松尾研究所でAI技術の社会実装を行うPJTに配属.
-  - position: ML Engineer(Internship)
+  - position: ML Engineer (Internship)
     company_name: Exawizards
     company_url: 'https://exawizards.com/'
     company_logo: ''
