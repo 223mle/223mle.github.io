@@ -152,9 +152,10 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Biography
 
-Daiki Tsutsumi （堤 大貴 in Japanese） is a Lead AI Engineer at Elyza, inc.
-Currently, he is working on the social implementation of a Large Language Model(LLM), from requirements definition to development.
-In college, he is interested in the field of cognitive bias and brain tech, including conducting research on human biases against AI.
+ElyzaでAI Engineerをやっている堤 大貴(Daiki Tsutsumi in English)と申します.
+現在は大規模言語モデル(LLM)の社会実装を目標に, 要件定義から導入に向けた開発まで幅広く担当.
+大学では, 認知バイアスやブレインテックに興味を持ち, 「人間はAIに対してどのようなバイアスを持つのか」, 「どのようにAIは人間に関わっていくべきなのか』を研究するHuman-AI Collaboration領域で研究を行っていました.
+
 *Background image borrowed from [OpenAI ChatGPT](https://openai.com/blog/chatgpt) illustration by [Ruby Chen](https://www.linkedin.com/in/rubyweijuchen/).*
