@@ -132,7 +132,13 @@ awards:
     # awarder: edX
     icon: clash-royale
     summary: |
-      学生時代、クラッシュロワイヤルのLaddar世界Top-100×3, アジア代表選出, e-sportsチームの初期メンバーとして選出. 
+      学生時代にやっていたクラッシュロワイヤルのお話
+      - Laddar世界Top-100×3.
+      - アジア代表に選出され, 世界大会に出場.
+      - e-sportsチームの初期メンバーとして選出.
+      - Sandstorm内での世界大会で優勝し, 1000$獲得.
+      - LiveryColorsでクラン日本一決定戦に出場し優勝 (準決勝・決勝に出場).
+      - みかん坊やとトルネードでのキング起動を発明
 ---
 
 ## Biography

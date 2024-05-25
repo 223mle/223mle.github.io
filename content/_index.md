@@ -24,7 +24,7 @@ sections:
             brightness: 0.2
   - block: resume-awards
     content:
-      title: Awards
+      title: Hobby
       # Note: `username` refers to the user's folder name in `content/authors/`
       username: daikitsutsumi
     design:
@@ -40,7 +40,12 @@ sections:
       title: 🧑‍💻️ Experiences (Job & Internship)
       subtitle: 'All experiences can be found on my [LinkedIn](https://www.linkedin.com/in/daiki-tsutsumi/).'
     design:
-      columns: '1'
+      background:
+        image:
+          # Add your image background to `assets/media/`.
+          filename: chatgpt.webp
+          filters:
+            brightness: 0.6
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
