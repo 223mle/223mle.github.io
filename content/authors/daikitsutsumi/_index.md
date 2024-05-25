@@ -156,6 +156,7 @@ awards:
 
 ElyzaでAI Engineerをやっている堤 大貴(Daiki Tsutsumi in English)と申します.
 現在は大規模言語モデル(LLM)の社会実装を目標に, 要件定義から導入に向けた開発まで幅広く担当.
+
 大学では, 認知バイアスやブレインテックに興味を持ち, 「人間はAIに対してどのようなバイアスを持つのか」, 「どのようにAIは人間に関わっていくべきなのか』を研究するHuman-AI Collaboration領域で研究を行っていました.
 
 *Background image borrowed from [OpenAI ChatGPT](https://openai.com/blog/chatgpt) illustration by [Ruby Chen](https://www.linkedin.com/in/rubyweijuchen/).*
