@@ -21,7 +21,18 @@ sections:
           # Add your image background to `assets/media/`.
           filename: chatgpt.webp
           filters:
-            brightness: 0.4
+            brightness: 0.2
+  - block: resume-awards
+    content:
+      title: Awards
+      # Note: `username` refers to the user's folder name in `content/authors/`
+      username: daikitsutsumi
+    design:
+      background:
+        image:
+          filename: elyza-background.png
+          filters:
+            brightness: 0.6
   - block: resume-experience
     content:
       # The user's folder name in `content/authors/`
@@ -34,9 +45,4 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: resume-awards
-    content:
-      title: Awards
-      # Note: `username` refers to the user's folder name in `content/authors/`
-      username: daikitsutsumi
 ---
