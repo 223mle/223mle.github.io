@@ -58,13 +58,16 @@ work:
     date_end: ''
     summary: |2-
       AI EngineerとしてLLMの社会実装を要件定義から導入まで担当.
-      - LLM, RAG, ...
   - position: AI Engineer (Internship)
     company_name: Elyza
     company_url: 'https://elyza.ai/'
     company_logo: ''
     date_start: 2022-02-20
     date_end: 2024-03-31
+    summary: |2-
+      DataFactoryの創設メンバーとして入社し, DataFactoryのリーダーを担当.
+      
+      途中からAI Engineerへジョブチェンジし, LLMの社会実装を試みた.
   - position: AI Engineer (Internship)
     company_name: Matsuo Institute
     company_url: 'https://matsuo-institute.com/'

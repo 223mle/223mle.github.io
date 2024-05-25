@@ -36,9 +36,9 @@ sections:
   - block: resume-experience
     content:
       # The user's folder name in `content/authors/`
-      username: daikitsutsumi
       title: 🧑‍💻️ Experiences (Job & Internship)
       subtitle: 'All experiences can be found on my [LinkedIn](https://www.linkedin.com/in/daiki-tsutsumi/).'
+      username: daikitsutsumi
     design:
       background:
         image:
